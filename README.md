@@ -14,3 +14,11 @@ Membuat aplikasi berbasis Web Server menggunakan NodeJS
 a. Parameter pertama adalah port. Parameter ini optional, boleh diisi boleh tdak. Jika tidak diisi maka NodeJS akan secara default menjalankan di Port 3000.
 b. Parameter kedua adalah Host. Parameter ini juga bersifat optional, dan secara default akan mengarahkan ke localhost
 c. Parameter ketiga berisi callback. Biasanya dengan parameter kosong dan berisi perintah console.log() yang mencetak informasi bahwa server sedang berjalan pada port yang sudah ditentukan.
+
+Sampai sini pembuatan server yang sederhana sudah selesai.
+
+07. Menjalankan server
+a. Masuk terminal
+b. Jalankan file entri point dengan perintah node app
+
+08. Cek dengan browser, kemudian masuk ke localhost:3000
