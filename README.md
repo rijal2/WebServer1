@@ -50,9 +50,9 @@ Kembali ke halaman browser. Ketik URL nya, misal: localhost:3000/about. Kemudian
 Maka akan muncul url yang sudah dituliskan, yaitu '/about'
 
 ================================================================
-MEMBUAT LEBIH DARI SATU HALAMAN (URL)
+MEMBUAT LEBIH DARI SATU RESPON TAMPILAN BERDASARKAN URL YANG DI REQUEST)
 
-01. Gunakan if atau switch untuk memvalidasi kecocokan URL dengan tmpilan yang sudah disetting.
+01. Gunakan if atau switch untuk memvalidasi URL. Kemudian setting halaman respon sesuai yang direquest.
 
 
  
